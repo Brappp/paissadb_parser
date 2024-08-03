@@ -3,7 +3,7 @@
 This script provides a GUI tool to query paissadb housing data. Key features include:
 
 1. **Download Latest CSV:**
-   - Downloads the latest housing data CSV from a specified URL.
+   - Downloads the latest housing data CSV from https://paissadb.zhu.codes/csv/dump
    - Saves the CSV to a local directory.
 
 2. **Load CSV into Database:**
