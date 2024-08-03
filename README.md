@@ -1,6 +1,6 @@
 # FFXIV Housing Query Tool
 
-This script provides a GUI tool to query Final Fantasy XIV housing data. Key features include:
+This script provides a GUI tool to query paissadb housing data. Key features include:
 
 1. **Download Latest CSV:**
    - Downloads the latest housing data CSV from a specified URL.
@@ -38,12 +38,12 @@ This script provides a GUI tool to query Final Fantasy XIV housing data. Key fea
      ```
 
 3. **Run the Script:**
-   - Save the script to a file, for example, `ffxiv_housing_query.py`.
+   - Save the script to a file, for example, `paissadb_query.py`.
    - Open a terminal or command prompt.
    - Navigate to the directory where the script is saved.
    - Run the script with:
      ```sh
-     python ffxiv_housing_query.py
+     python paissadb_query.py
      ```
 
 4. **Using the Tool:**
