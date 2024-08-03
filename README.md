@@ -38,12 +38,12 @@ This script provides a GUI tool to query paissadb housing data. Key features inc
      ```
 
 3. **Run the Script:**
-   - Save the script to a file, for example, `paissadb_query.py`.
+   - Save the script to a file, for example, `paissadb_parser.py`.
    - Open a terminal or command prompt.
    - Navigate to the directory where the script is saved.
    - Run the script with:
      ```sh
-     python paissadb_query.py
+     python paissadb_parser.py
      ```
 
 4. **Using the Tool:**
