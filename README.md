@@ -48,7 +48,7 @@ This script provides a GUI tool to query paissadb housing data. Key features inc
 
 4. **Using the Tool:**
    - The GUI will open.
-   - Click "Download Latest CSV" to download and load the latest housing data.
+   - Click "Download Latest CSV" to download and load the latest housing data from paissadb.
    - Select your query parameters (worlds, districts, wards, etc.).
    - Click "Execute Query" to display the results.
 
